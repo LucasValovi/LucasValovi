@@ -1,12 +1,12 @@
 
- - 📘 Estudando HTML, JAVASCRIPT e CSS; 
- - 📊Formado em administração de empresas;
- - 🌚22 anos.
+- 📘 Estudando HTML, JAVASCRIPT e CSS; 
+ - 📊Advogado e estudante de programação;
+ - 🌚26 anos.
  
 <div align="center">
-  <a href="https://github.com/gabriel1999ap">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabriel1999ap&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel1999ap&layout=compact&langs_count=7&theme=dracula"/>   
+  <a href="https://github.com/LucasValovi">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasValovi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasValovi&layout=compact&langs_count=7&theme=dracula"/>   
 </div>
  
   <div style="display: inline_block"><br>
@@ -18,15 +18,14 @@
  
   ##     
    
-  <h4 align="relative"> Visitantes </h4><img align="relative" src="https://profile-counter.glitch.me/gabriel1999ap/count.svg"> 
+  <h4 align="relative"> Visitantes </h4><img align="relative" src="https://profile-counter.glitch.me/LucasValovi/count.svg"> 
  
  ##
   
   <div>   
   
-  <a href="https://instagram.com/gabri.ap" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> <a href="https://www.linkedin.com/in/gabriel-almeida-9453b3197/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <a href="https://api.whatsapp.com/send?phone=5518996198273" target="blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>    
-     ![Snake animation](https://github.com/gabriel1999ap/gabriel1999ap/blob/output/github-contribution-grid-snake.svg)
-   
+  <a href="https://www.instagram.com/lucasvalovi/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> <a href="https://www.linkedin.com/in/lucas-valovi-558893120/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <a href="https://api.whatsapp.com/send?phone=5518996533616" target="blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>    
+        
 </div>
  
    <div>
