@@ -1,6 +1,6 @@
 
  - 📘 Estudando HTML, JAVA, CSS e JAVASCRIPT; 
- - 📊Advogado e estudante de programação;
+ - 📊Advogado e estudante de programação nas horas livres ;
  - 🌚26 anos.
  
 <div align="center">
